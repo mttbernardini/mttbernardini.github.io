@@ -1,0 +1,111 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans;
+	font-size: 17px;
+	color: black;
+	box-sizing: border-box;
+	background: #EFEFEF;
+}
+
+* {
+	box-sizing: inherit;
+}
+
+a {
+	color: #AD1818;
+	text-decoration: none;
+	border-bottom: 1px dashed;
+	transition: color 50ms linear;
+}
+
+a:hover {
+	color: #D07E7E;
+}
+
+q {
+	font-style: italic;
+}
+
+q:after, q:before {
+	content: none;
+}
+
+em {
+	font-style: normal;
+	color: #E63126;
+}
+
+nav {
+	text-align: center;
+}
+
+
+.heading {
+	font-family: impact;
+	letter-spacing: 0.1em;
+	font-weight: 500;
+	text-align: center;
+	margin: 1.3em 0 1em;
+	font-size: 2.3em;
+	text-shadow: 0 0 5px #BBB;
+}
+
+.links a {
+	margin: 0 1em;
+}
+
+.sec-title {
+	text-align: center;
+	margin-bottom: 1.5em;
+}
+
+.sec-title:after, .sec-title:before {
+	content: " - ";
+	color: #444;
+}
+
+.sect {
+	padding: 2em 4em;
+	margin: auto;
+	/*max-width: 1500px;*/
+	overflow: hidden;
+	text-align: justify;
+}
+
+.panel {
+	min-height: 100vh;
+}
+
+.tools-logo {
+	margin: 2em;
+	border-radius: 10px;
+	box-shadow: 0 0 5px #BBB;
+	float: right;
+	width: 162px;
+	height: 162px;
+}
+
+
+#programming {
+	background: #CDEAE1;
+}
+
+#music {
+	background: #FFDEBB;
+}
+
+#videomaking {
+	background: #EFD6E7;
+}
+
+.socials {
+	clear: both;
+	margin: 4em 0 0;
+}
+
+.socials a {
+	border: none;
+	display: block;
+	margin: 1em 0;
+}
