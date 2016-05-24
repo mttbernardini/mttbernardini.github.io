@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="128"
+     height="128"
+     id="svg3134"
+     version="1.1"
+     inkscape:version="0.48.5 r10040"
+     sodipodi:docname="twitter.svg">
+    <defs
+         id="defs3136">
+        <clipPath
+             id="clipPath4018"
+             clipPathUnits="userSpaceOnUse">
+            <path
+                 id="path4020"
+                 d="M 0,2221.78 0,0 l 2733.9,0 0,2221.78 -2733.9,0 z" />
+        </clipPath>
+    </defs>
+    <sodipodi:namedview
+         id="base"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1.0"
+         inkscape:pageopacity="0.0"
+         inkscape:pageshadow="2"
+         inkscape:zoom="3.9867187"
+         inkscape:cx="83.17199"
+         inkscape:cy="57.315305"
+         inkscape:document-units="px"
+         inkscape:current-layer="layer1"
+         showgrid="false"
+         inkscape:window-width="1680"
+         inkscape:window-height="941"
+         inkscape:window-x="0"
+         inkscape:window-y="25"
+         inkscape:window-maximized="1" />
+    <metadata
+         id="metadata3139">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title />
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g
+         inkscape:label="Livello 1"
+         inkscape:groupmode="layer"
+         id="layer1"
+         transform="translate(0,-924.36218)">
+        <rect
+             style="fill:#55acee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="rect4031"
+             width="128"
+             height="128"
+             x="0"
+             y="924.36218" />
+        <g
+             transform="matrix(0.29262226,0,0,-0.29262226,24,1020.8693)"
+             inkscape:label="ink_ext_XXXXXX"
+             id="g4010">
+            <g
+                 transform="scale(0.1,0.1)"
+                 id="g4012">
+                <g
+                     id="g4014">
+                    <g
+                         clip-path="url(#clipPath4018)"
+                         id="g4016">
+                        <path
+                             id="path4022"
+                             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                             d="m 2733.9,1958.77 c -100.59,-44.61 -208.69,-74.76 -322.15,-88.32 115.81,69.42 204.74,179.34 246.62,310.32 -108.37,-64.28 -228.41,-110.96 -356.17,-136.12 -102.32,109.01 -248.09,177.13 -409.41,177.13 -309.77,0 -560.91,-251.13 -560.91,-560.88 0,-43.96 4.97,-86.77 14.53,-127.82 -466.156,23.39 -879.445,246.69 -1156.09,586.03 -48.281,-82.84 -75.933,-179.18 -75.933,-281.98 0,-194.59 99.019,-366.27 249.519,-466.85 -91.941,2.91 -178.426,28.14 -254.051,70.15 -0.043,-2.34 -0.05,-4.68 -0.05,-7.05 0,-271.76 193.34,-498.458 449.929,-549.982 -47.066,-12.816 -96.621,-19.668 -147.769,-19.668 -36.145,0 -71.281,3.508 -105.527,10.059 71.374,-222.84 278.511,-385 523.953,-389.527 C 638.43,333.832 396.582,244.16 133.801,244.16 88.5273,244.16 43.8789,246.809 0,251.988 248.223,92.8516 543.047,0 859.797,0 1891.48,0 2455.64,854.672 2455.64,1595.86 c 0,24.32 -0.54,48.51 -1.62,72.56 109.58,79.08 204.68,177.87 279.88,290.35"
+                             inkscape:connector-curvature="0" />
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

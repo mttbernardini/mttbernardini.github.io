@@ -1,0 +1,39 @@
+.with-icon:before {
+	content: "";
+	width: 1.2em;
+	height: 1.2em;
+	display: inline-block;
+	vertical-align: bottom;
+	margin-right: 5px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	border-radius: 25%;
+}
+
+.tumblr-icon:before {
+	background-image: url("../img/tumblr.svg");
+}
+
+.twitter-icon:before {
+	background-image: url("../img/twitter.svg");
+}
+
+.github-icon:before {
+	background-image: url("../img/github.svg");
+}
+
+.bc-icon:before {
+	background-image: url("../img/bc.svg");
+}
+
+.sc-icon:before {
+	background-image: url("../img/sc.svg");
+}
+
+.fb-icon:before {
+	background-image: url("../img/fb.svg");
+}
+
+.yt-icon:before {
+	background-image: url("../img/yt.svg");
+}

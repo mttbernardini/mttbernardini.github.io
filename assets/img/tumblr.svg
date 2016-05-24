@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="128"
+     height="128"
+     id="svg2"
+     version="1.1"
+     inkscape:version="0.48.5 r10040"
+     sodipodi:docname="tumblr.svg">
+    <defs
+         id="defs4" />
+    <sodipodi:namedview
+         id="base"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1.0"
+         inkscape:pageopacity="0.0"
+         inkscape:pageshadow="2"
+         inkscape:zoom="5.9800781"
+         inkscape:cx="48.09023"
+         inkscape:cy="59.781828"
+         inkscape:document-units="px"
+         inkscape:current-layer="g5569"
+         showgrid="false"
+         inkscape:showpageshadow="false"
+         inkscape:window-width="1680"
+         inkscape:window-height="941"
+         inkscape:window-x="0"
+         inkscape:window-y="25"
+         inkscape:window-maximized="1" />
+    <g
+         inkscape:label="Livello 1"
+         inkscape:groupmode="layer"
+         id="layer1"
+         transform="translate(0,-924.36218)">
+        <g
+             transform="matrix(0.14222222,0,0,-0.14222222,0,1052.3622)"
+             inkscape:label="ink_ext_XXXXXX"
+             id="g5567">
+            <g
+                 transform="scale(0.1,0.1)"
+                 id="g5569">
+                <path
+                     id="path5571"
+                     style="fill:#33405a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     d="m 0,0 9000,0 0,9000 L 0,9000 0,0 z"
+                     inkscape:connector-curvature="0" />
+                <path
+                     id="path5575"
+                     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     d="m 6206.4815,1858.2065 c -203.24,-195.41 -620.36,-340.58 -1020.14,-347.34 -15.1,-0.26 -29.91,-0.39 -44.78,-0.39 l -0.13,0 c -1314.95,0.07 -1665.78,1003.84 -1665.78,1596.97 l 0,1822.64 c 0,15.03 -12.19,27.22 -27.23,27.22 l -635.84,0 c -15.03,0 -27.23,12.19 -27.23,27.23 l 0,830.29 c 0,11.1 6.95,21 17.3,25.03 679.59,264.55 1059.11,790.21 1158.94,1603.26 5.56,45.17 42.82,46.41 43.21,46.41 l 848.77,0 c 15.03,0 27.22,-12.19 27.22,-27.23 l 0,-1459.28 c 0,-15.03 12.19,-27.22 27.23,-27.22 l 1056.54,0 c 15.04,0 27.23,-12.2 27.23,-27.23 l 0,-964.03 c 0,-15.04 -12.19,-27.23 -27.23,-27.23 l -1061.09,0 c -15.04,0 -27.23,-12.19 -27.23,-27.23 l 0.03,-1732.17 c 6.25,-390.02 195.01,-587.73 561.04,-587.73 147.49,0 316.42,34.31 470.65,93.23 14.42,5.5 30.33,-1.83 35.26,-16.45 l 269.91,-800.11 c 3.41,-10.09 1.02,-21.26 -6.65,-28.64"
+                     inkscape:connector-curvature="0"
+                     sodipodi:nodetypes="ccscssssssccssssssssssccscccc" />
+            </g>
+        </g>
+    </g>
+    <metadata
+         id="metadata3132">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:title />
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+</svg>
