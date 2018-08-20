@@ -57,6 +57,11 @@ em {
 	color: #E63126;
 }
 
+.socials .fa:before, .socials .fab:before {
+	margin-right: 0.5em;
+	color: #754343;
+}
+
 
 /* sections */
 
