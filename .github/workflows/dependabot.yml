@@ -1,5 +1,5 @@
 name: Auto-merge Dependabot PR
-on: [push, pull_request]
+on: pull_request
 
 jobs:
   automerge:
