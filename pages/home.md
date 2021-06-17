@@ -37,7 +37,7 @@ Current Projects
 - [Benny Di Guardo](https://bennydguardo.it): music productions and compositions.
 - [BubleFishStudio](https://bubblefish.studio): creative works and programming.
 - [rh productions](https://www.youtube.com/playlist?list=PLJW_4sXRt8zcGNZX7oyXOI2-78hkTfcIn): audio&video productions for friends.
-- [Random5](https://random5music.it): my former rock band (I used to play drums).
+- [Random5](https://random5music.it): my former rock band (I played drums).
 - [Benny's Trio](https://trio.bennydguardo.it): semi-acoustic band with Benny Di Guardo (I play the cajon).
 
 
