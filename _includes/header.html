@@ -1,0 +1,18 @@
+<div id="header_wrap" class="outer">
+	<header class="inner">
+		<h1 id="project_title">
+			<a href="/">
+				{{ site.title | default: site.github.repository_name }}
+			</a>
+		</h1>
+		{% if page.contacts %}
+			<ul id="project_contacts">
+				{% for line in page.contacts %}
+				<li>{{line}}</li>
+				{% endfor %}
+			</ul>
+		{% else %}
+			<h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+		{% endif %}
+	</header>
+</div>

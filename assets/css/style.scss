@@ -1,0 +1,31 @@
+---
+# Theme style overrides
+---
+
+@import "{{ site.theme }}";
+@import "fa-all.min.css";
+
+#project_title a {
+	color: white;
+	text-decoration: none;
+}
+
+#project_contacts {
+	display: block;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+#project_contacts > li {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+#project_contacts a {
+	color: #fff;
+}
+
+.inner {
+	max-width: 800px;
+}
