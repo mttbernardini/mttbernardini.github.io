@@ -16,11 +16,11 @@ contacts:
 	box-shadow: 0 0 5px #BBB;
 	float: right;
 	width: 12em;
-	height: 12em;
 	padding: 5px;
 	shape-outside: circle();
 	box-shadow: none;
 	background-color: #f2f2f2;
+	max-width: 30%;
 }
 </style>
 
