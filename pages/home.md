@@ -6,6 +6,7 @@ contacts:
 - <a target="_blank" href="https://mttbernardini.bandcamp.com/" class="fab fa-fw fa-bandcamp"></a>
 - <a target="_blank" href="https://youtube.com/arsaloscopicese" class="fab fa-fw fa-youtube"></a>
 - <a target="_blank" href="https://flickr.com/photos/mttbernardini" class="fab fa-fw fa-flickr"></a>
+- <a href="mailto:matteo@teobe.net" class="fas fa-fw fa-envelope"></a>
 ---
 
 <style>
