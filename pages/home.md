@@ -26,23 +26,21 @@ contacts:
 
 <img src="assets/img/tools.png" class="tools-logo" title="My universal logo">
 
-I'm an Italian student, currently studying **Music and Acoustic Engineering** at Politecnico di Milano (i.e. a *MSc. in Computer Science*).
-I'm a creative person, my wish is to work in my favorite fields: Music and Computer Science.
+I'm an Italian young artist, currently studying **Music and Acoustic Engineering** at Politecnico di Milano (i.e. a *MSc. in Computer Science*).
+My wish is to work in my favorite fields: Music and Computer Science.
 My Computer Science related **resumee** can be found [here](/cv). If you have specific requests feel free to contact me.
 
 
-Current Projects
-----------------
+What do I do
+------------
 
-- [Benny Di Guardo](https://bennydguardo.it): music productions and compositions.
-- [BubleFishStudio](https://bubblefish.studio): creative works and programming.
-- [rh productions](https://www.youtube.com/playlist?list=PLJW_4sXRt8zcGNZX7oyXOI2-78hkTfcIn): audio&video productions for friends.
-- [Random5](https://random5music.it): my former rock band (I played drums).
-- [Benny's Trio](https://trio.bennydguardo.it): semi-acoustic band with Benny Di Guardo (I play the cajon).
+- Applied music and sound design @ [BubbleFish Studio](https://bubblefish.studio)
+- Music video making @ [rh productions](https://www.youtube.com/playlist?list=PLJW_4sXRt8zcGNZX7oyXOI2-78hkTfcIn)
+- Music production and composition for [Benny Di Guardo](https://bennydguardo.it)
 
 
-Past works
-----------
+Past projects
+-------------
 
 ### Programming:
 
