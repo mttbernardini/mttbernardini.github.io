@@ -76,9 +76,10 @@ contacts:
 	- English (C1)
 
 - **Field Knowledge**:
-	- *Programming*: C, C#, Python, Java, Haskell, Matlab
+	- *Programming*: C, C#, C++, Swift, Python, Java, Haskell, Matlab
 	- *Tools*: Version Control (git), Containerization (Docker), Research Writing (LaTeX)
 	- *Web Technologies*: HTML, CSS (Bootstrap), JavaScript (Webpack, Node, ES6), Java (Spring, Thymeleaf), JPA (ORM)
+	- *Computer graphics*: GLSL, Metal API & MSL, Processing
 
 - **Other Skills**:
   Music Composition, Photography, Audio/Multimedia Productions, Graphic works
