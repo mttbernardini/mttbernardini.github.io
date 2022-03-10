@@ -34,9 +34,9 @@ My Computer Science related **resumee** can be found [here](/cv). If you have sp
 What do I do
 ------------
 
-- Applied music and sound design @ [BubbleFish Studio](https://bubblefish.studio)
-- Music video making @ [rh productions](https://www.youtube.com/playlist?list=PLJW_4sXRt8zcGNZX7oyXOI2-78hkTfcIn)
-- Music production and composition for [Benny Di Guardo](https://bennydguardo.it)
+- Multimedia Installations, Soundtracks and Sound Design @ [BubbleFish Studio](https://bubblefish.studio)
+- Music Video making @ [rh productions](https://www.youtube.com/playlist?list=PLJW_4sXRt8zcGNZX7oyXOI2-78hkTfcIn)
+- Music Production and Composition for [Benny Di Guardo](https://bennydguardo.it)
 
 
 Past projects
@@ -51,4 +51,4 @@ Past projects
 ### Videos:
 
 - [Big Yellow Taxi](https://www.youtube.com/watch?v=pzqhckXevK0): production of a short **animation movie** and music cover, a high-school project for UNESCO.
-- [Tre Sguardi](https://vimeo.com/70772938), [Lavori in Corso](https://vimeo.com/114587150): assistance in shooting and editing of two professional **documentaries** directed by Gisella Ianiri.
+- [Tre Sguardi](https://vimeo.com/70772938), [Lavori in Corso](https://vimeo.com/114587150): assistance in shooting and editing of two **documentaries** directed by Gisella Ianiri.
