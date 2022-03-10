@@ -25,7 +25,7 @@ contacts:
 	Education
 </h2>
 
-- <u>2019-09 - 2021-12</u> *Politecnico di Milano*
+- <u>2019-09 - ongoing</u> *Politecnico di Milano*
 
   **Master** of Science in **Music and Acoustic Engineering** (Computer Science)
 
@@ -89,8 +89,7 @@ contacts:
 	Research interests
 </h2>
 
+- Creative programming and multimedia art
 - Distributed Systems and Concurrency
-- Data Integrity
-- Data Structures
+- Data Structures and Integrity
 - Audio Coding and Signal Processing
-- Computer graphics for creative programming
