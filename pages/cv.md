@@ -72,8 +72,6 @@ contacts:
   > [Matteo Bernardini, Diego Pennino, Maurizio Pizzonia. *Blockchains Meet Distributed Hash Tables: Decoupling Validation from State Storage.*](http://ceur-ws.org/Vol-2334/DLTpaper4.pdf)
 
 
-<p style="page-break-after: always; margin: none;"></p>
-
 <h2>
 	<span class="fas fa-drafting-compass"></span>
 	Skills
