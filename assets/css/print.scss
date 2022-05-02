@@ -1,0 +1,82 @@
+---
+# Theme style overrides for printing
+---
+
+@page {
+	margin: 1cm;
+}
+
+body {
+	font-size: 12pt;
+	line-height: 1.1;
+}
+
+body, h1, h2, h3 {
+	font-family: "PT Serif", serif;
+}
+
+// section reorganization
+
+#header_wrap, #main_content_wrap {
+	background: none;
+}
+
+#header_wrap .inner {
+	padding: 1em 0 0;
+}
+
+#project_title {
+	border-top: 1px solid #ccc;
+	padding: 0.5em 0;
+	//text-transform: uppercase;
+	//letter-spacing: 2pt;
+
+	text-align: center;
+	font-size: 1.2em;
+	color: #333;
+
+	a {
+		color: inherit;
+	}
+}
+
+#project_contacts {
+	text-align: center;
+	color: #555;
+	
+	a {
+		color: inherit;
+	}
+}
+
+#main_content_wrap {
+	border: none;
+}
+
+#main_content {
+	padding-top: 1em;
+}
+
+#footer_wrap {
+	display: none;
+}
+
+
+// text formatting
+
+h1, h2 {
+	text-transform: uppercase;
+	letter-spacing: 1pt;
+}
+
+h2 {
+	font-size: 1em;
+	background: none;
+	border-bottom: 1px solid #000;
+	padding-bottom: 4pt;
+	margin-bottom: 8pt;
+}
+
+p {
+	margin: 0.5em 0;
+}

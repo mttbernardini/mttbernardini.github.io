@@ -17,6 +17,10 @@ contacts:
 	blockquote > p {
 		margin-bottom: 0;
 	}
+
+	p a {
+		color: inherit;
+	}
 </style>
 
 
@@ -53,17 +57,22 @@ contacts:
 	Academic experience & publications
 </h2>
 
+- <u>2021</u> **Research Thesis**, Politecnico di Milano, Italy
+  > [Matteo Bernardini, Yilin Zhu. *AlphaXmas: A Final Project for Creative Programming 2020-2021.*](https://alphaxmas.bubblefish.studio/docs/report.pdf)
+
 - <u>2019-2020</u> **Research Assistant**, Università degli Studi Roma Tre, Roma Italy.  
   *Fixed-time employment contract for: «Supporting experimentation of a blockchain with distributed storage using DHT».*
   > I developed a python simulation of "blockchain using distributed storage via authenticated DHT" for assessing the scalability of the proposed approach, committed by prof. Maurizio Pizzonia. The simulation was performed through a virtual network of ~3k docker containers on a multi-core machine, using nftables for latency emulation, pyplot for statistic extractions and asyncio for schedule management.
 
-- <u>2018-2019</u> **Bachelor Thesis (Internship)**, Università degli Studi Roma Tre, Roma Italy.  
+- <u>2018-2019</u> **Bachelor Thesis (Internship)**, Università degli Studi Roma Tre, Italy.  
   *Internship of research in: «Methods to distribute storage in an authenticated manner, in the context of state-based blockchains».*
   > I worked on a theoretical formulation for a separation of the roles of data storage and validation from traditional blockchain models, with the aim to enhance blockchain scalability. At the end of the internship I collaborated in the production of a research paper describing the defined approach and wrote my bachelor thesis on the same topic.
 
 - <u>2019</u> **Research Publication**, on 2nd Distributed Ledger Technology Workshop.
-  > Matteo Bernardini, Diego Pennino, Maurizio Pizzonia. *Blockchains Meet Distributed Hash Tables: Decoupling Validation from State Storage.*
+  > [Matteo Bernardini, Diego Pennino, Maurizio Pizzonia. *Blockchains Meet Distributed Hash Tables: Decoupling Validation from State Storage.*](http://ceur-ws.org/Vol-2334/DLTpaper4.pdf)
 
+
+<p style="page-break-after: always; margin: none;"></p>
 
 <h2>
 	<span class="fas fa-drafting-compass"></span>
