@@ -80,6 +80,7 @@ contacts:
 	- *Tools*: Version Control (git), Containerization (Docker), Research Writing (LaTeX)
 	- *Web Technologies*: HTML, CSS (Bootstrap), JavaScript (Webpack, Node, ES6), Java (Spring, Thymeleaf), JPA (ORM)
 	- *Computer graphics*: GLSL, Metal API & MSL, Processing
+	- *Software Engineering*: Agile Method, UML, GRASP patterns
 
 - **Other Skills**:
   Music Composition, Photography, Audio/Multimedia Productions, Graphic works
