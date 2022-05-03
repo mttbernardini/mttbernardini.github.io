@@ -22,6 +22,12 @@ contacts:
 	background-color: #f2f2f2;
 	max-width: 30%;
 }
+
+@media print {
+	.tools-logo {
+		display: none;
+	}
+}
 </style>
 
 <img src="assets/img/tools.png" class="tools-logo" title="My universal logo">
