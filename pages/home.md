@@ -40,8 +40,9 @@ My Computer Science related **resumee** can be found [here](/cv). If you have sp
 What do I do
 ------------
 
+- Python Delevoper and Music Processing @ [Melodrive Inc.](https://www.infinitealbum.io/)
 - Multimedia Installations, Soundtracks and Sound Design @ [BubbleFish Studio](https://bubblefish.studio)
-- Music Video making @ [rh productions](https://www.youtube.com/playlist?list=PLJW_4sXRt8zcGNZX7oyXOI2-78hkTfcIn)
+- Music Video Making @ [rh productions](https://www.youtube.com/playlist?list=PLJW_4sXRt8zcGNZX7oyXOI2-78hkTfcIn)
 - Music Production and Composition for [Benny Di Guardo](https://bennydguardo.it)
 
 
