@@ -61,7 +61,7 @@ contacts:
   > [Matteo Bernardini, Yilin Zhu. *AlphaXmas: A Final Project for Creative Programming 2020-2021.*](https://alphaxmas.bubblefish.studio/docs/report.pdf)
 
 - <u>2019-2020</u> **Research Assistant**, Università degli Studi Roma Tre, Roma Italy.  
-  *Fixed-time employment contract for: «Supporting experimentation of a blockchain with distributed storage using DHT».*
+  *Collaboration contract for: «Supporting experimentation of a blockchain with distributed storage using DHT».*
   > I developed a python simulation of "blockchain using distributed storage via authenticated DHT" for assessing the scalability of the proposed approach, committed by prof. Maurizio Pizzonia. The simulation was performed through a virtual network of ~3k docker containers on a multi-core machine, using nftables for latency emulation, pyplot for statistic extractions and asyncio for schedule management.
 
 - <u>2018-2019</u> **Bachelor Thesis (Internship)**, Università degli Studi Roma Tre, Italy.  
