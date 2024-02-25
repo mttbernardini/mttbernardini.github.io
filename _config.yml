@@ -2,4 +2,9 @@ theme: jekyll-theme-slate
 timezone: Europe/Rome
 
 title: Matteo Bernardini
-description: "Art & Technology"
+description: "Sound Designer & Music Engineer"
+
+nav:
+  - <a href="/music"><span class="fas fa-music"></span> Music</a>
+  - <a href="/learning"><span class="fas fa-book"></span> Learning</a>
+  - <a href="/cv"><span class="fas fa-briefcase"></span> CV</a>

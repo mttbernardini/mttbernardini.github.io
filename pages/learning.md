@@ -1,6 +1,6 @@
 ---
-title: Nerd Stuff
-permalink: /nerd
+title: Learning
+permalink: /learning
 ---
 
 > As a perfectionist, sometimes getting things done can be hard. Rather than seeking for completeness, I’ll start by drafting something out and iterate over it with time.
@@ -14,7 +14,6 @@ timeline
          : CSS
     2012 : Javascript
          : GNU/Linux
-    2013 : ?
     2015 : git
          : Markdown
     2016 : C

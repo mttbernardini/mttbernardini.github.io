@@ -1,22 +1,20 @@
 ---
 permalink: /
-contacts:
-- <a target="_blank" href="https://github.com/mttbernardini" class="fab fa-fw fa-github"></a>
-- <a target="_blank" href="https://twitter.com/mttbernardini" class="fab fa-fw fa-twitter"></a>
-- <a target="_blank" href="https://mttbernardini.bandcamp.com/" class="fab fa-fw fa-bandcamp"></a>
-- <a target="_blank" href="https://youtube.com/arsaloscopicese" class="fab fa-fw fa-youtube"></a>
-- <a target="_blank" href="https://flickr.com/photos/mttbernardini" class="fab fa-fw fa-flickr"></a>
-- <a href="mailto:matteo@teobe.net" class="fas fa-fw fa-envelope"></a>
 ---
 
 <style>
+.callout {
+	background: rgba(255, 203, 0, 0.15);
+	padding: 1em;
+}
+
 .tools-logo {
 	display: block;
 	border-radius: 50%;
 	box-shadow: 0 0 5px #BBB;
 	float: right;
 	width: 12em;
-	padding: 5px;
+	padding: 1em;
 	shape-outside: circle();
 	box-shadow: none;
 	background-color: #f2f2f2;
@@ -30,32 +28,27 @@ contacts:
 }
 </style>
 
-<img src="assets/img/tools.png" class="tools-logo" title="My universal logo">
+<img src="assets/img/tools.png" class="tools-logo" title="My Universal Logo" alt="Matteo's Logo, a clip-art depicting three hardware tools: a wrench, a caliber and a screwdriver, forming the shape of an uppercase H, with a white gradient background.">
 
-I'm an Italian young artist, currently studying **Music and Acoustic Engineering** at Politecnico di Milano (i.e. a *MSc. in Computer Science*).
-My wish is to work in my favorite fields: Music and Computer Science.
-My Computer Science related **resumee** can be found [here](/cv). If you have specific requests feel free to contact me.
+I started developing software when I was 13 years old, as self-taught. My journey is characterised by two elements: curiosity and precision. I like taking new challenges and finding solutions to new problems, in a way that preserves structure, documentation and clean code. I prefer good architecture instead of finding a solution that just "works".
 
+Still at 13 years old, also as self-taught, I started playing piano and writing music. I later played in bands as a drummer, arranged and written pieces. My focus is now on writing and producing music and doing sound design for shorts.
 
-What do I do
-------------
+I combine my two passions by developing software for music purposes and researching technological solutions that can help musicians and composers.
 
-- Python Delevoper and Music Processing @ [Melodrive Inc.](https://www.infinitealbum.io/)
-- Multimedia Installations, Soundtracks and Sound Design @ [BubbleFish Studio](https://bubblefish.studio)
-- Music Video Making @ [rh productions](https://www.youtube.com/playlist?list=PLJW_4sXRt8zcGNZX7oyXOI2-78hkTfcIn)
-- Music Production and Composition for [Benny Di Guardo](https://bennydguardo.it)
+<div class="callout">
+<span class="fas fa-fw fa-envelope"></span>
+If you have specific requests or would like to book me for a job, feel free to <a href="mailto:matteo@teobe.net">contact me</a>.
+</div>
 
-
-Past projects
+Current Works
 -------------
 
-### Programming:
+- [Infinite Album](https://www.infinitealbum.io/) – Senior Software Engineer & AI Music Engineer
+- [BubbleFish Studio](https://bubblefish.studio) – Sound Designer, Composer & Producer
 
-- [MezzaPiotta](https://www.youtube.com/watch?v=FLF8M5eMwvg): development of a **mobile application** for money spending tracking, assignment for the Mobile Computing course in my bachelor program.
-- [r3bus formazione](https://bitbucket.org/r3bus/formazione): development of a sample **web application** for formation courses management, assignment for the Informative Web System course in my bachelor program.
-- [mbc](https://github.com/mttbernardini/mbc): a recreational project in C of a (insecure) **symmetric block-encryption algorithm**, based on a substitution method.
+Education
+---------
 
-### Videos:
-
-- [Big Yellow Taxi](https://www.youtube.com/watch?v=pzqhckXevK0): production of a short **animation movie** and music cover, a high-school project for UNESCO.
-- [Tre Sguardi](https://vimeo.com/70772938), [Lavori in Corso](https://vimeo.com/114587150): assistance in shooting and editing of two **documentaries** directed by Gisella Ianiri.
+- M.Sc. in Music Engineering – Politecnico di Milano, Italy (ongoing)
+- B.Sc. in Computer Science & Engineering – Università degli Studi Roma Tre, Italy (2019)

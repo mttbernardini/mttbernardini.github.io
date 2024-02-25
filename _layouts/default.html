@@ -11,6 +11,17 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+        {% unless page.hide_nav %}
+        <nav id="site_nav">
+            {% if page.url == "/" %}
+            {% for line in site.nav %}
+            {{line}}
+            {% endfor %}
+            {% else %}
+            <a href="/" class="back_link">Back</a>
+            {% endif %}
+        </nav>
+        {% endunless %}
         {{ content }}
       </section>
     </div>

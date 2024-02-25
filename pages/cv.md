@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae
 permalink: /cv
-#layout: cv
+hide_nav: true
 contacts:
 - <span class="fas fa-fw fa-map-pin"></span> Hangzhou, China
 - <span class="fab fa-fw fa-github"></span> <a href="https://github.com/mttbernardini" target="_blank">mttbernardini</a>
