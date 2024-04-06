@@ -41,9 +41,10 @@ I combine my two passions by developing software for music purposes and research
 If you have specific requests or would like to book me for a job, feel free to <a href="mailto:matteo@teobe.net">contact me</a>.
 </div>
 
-Current Works
--------------
+Current Positions
+-----------------
 
+- [Setmixer](https://setmixer.com) - Embedded Software Engineer
 - [Infinite Album](https://www.infinitealbum.io/) – Senior Software Engineer & AI Music Engineer
 - [BubbleFish Studio](https://bubblefish.studio) – Sound Designer, Composer & Producer
 
