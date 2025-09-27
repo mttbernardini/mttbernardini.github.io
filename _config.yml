@@ -7,4 +7,5 @@ description: "Sound Designer & Music Engineer"
 nav:
   - <a href="/music"><span class="fas fa-music"></span> Music</a>
   - <a href="/learning"><span class="fas fa-book"></span> Learning</a>
+  - <a href="https://teobe.substack.com/" target="_blank"><span class="fas fa-pencil-alt"></span> Blog</a>
   - <a href="/cv"><span class="fas fa-briefcase"></span> CV</a>
