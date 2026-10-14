@@ -30,11 +30,9 @@ permalink: /
 
 <img src="assets/img/tools.png" class="tools-logo" title="My Universal Logo" alt="Matteo's Logo, a clip-art depicting three hardware tools: a wrench, a caliber and a screwdriver, forming the shape of an uppercase H, with a white gradient background.">
 
-I started developing software when I was 13 years old, as self-taught. My journey is characterised by two elements: curiosity and precision. I like taking new challenges and finding solutions to new problems, in a way that preserves structure, documentation and clean code. I prefer good architecture instead of finding a solution that just "works".
+I have two passions in my life: music and computers.
 
-Still at 13 years old, also as self-taught, I started playing piano and writing music. I later played in bands as a drummer, arranged and written pieces. My focus is now on writing and producing music and doing sound design for shorts.
-
-I combine my two passions by developing software for music purposes and researching technological solutions that can help musicians and composers.
+I combine them by working on fields that sit at the edge (e.g. computer music, generative/procedural music, automatic mixing) and developing technological solutions that help musicians and composers expand their creative potentials, recognizing copyright and fair attribution.
 
 <div class="callout">
 <span class="fas fa-fw fa-envelope"></span>
@@ -44,9 +42,14 @@ If you have specific requests or would like to book me for a job, feel free to <
 Current Positions
 -----------------
 
+- [Xsolla](https://xsolla.com) – Senior Music Software Engineer
+- [BubbleFish Studio](https://bubblefish.studio) – Sound Designer, Composer & Producer
+
+Past Positions
+--------------
+
 - [Setmixer](https://setmixer.com) - Embedded Software Engineer
 - [Infinite Album](https://www.infinitealbum.io/) – Senior Software Engineer & AI Music Engineer
-- [BubbleFish Studio](https://bubblefish.studio) – Sound Designer, Composer & Producer
 
 Education
 ---------
